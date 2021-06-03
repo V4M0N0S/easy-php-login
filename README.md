@@ -12,7 +12,7 @@ This is a small "framework" to protect a website with a passwort in PHP.
 
 ```bash
 Used bootstrap 4 / If you want change theme replace 
-"/server/style.css" with some from (https://bootswatch.com/)
+"/server/style.css" with some from (https://bootswatch.com/4/)
 ```
 
 
