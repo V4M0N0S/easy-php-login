@@ -38,7 +38,7 @@ Used bootstrap 4 / If you want change theme replace
 ## Credits for basic source
 This repository depends on the w3schools.in example.
 
-(https://www.w3schools.in/php-script/php-login-without-using-database/)
+(https://www.w3schools.in/php/examples/php-login-without-using-database)
 
 ## Contributing
 🔥 Pull requests are welcome. 
