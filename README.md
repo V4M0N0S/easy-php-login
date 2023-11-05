@@ -1,7 +1,10 @@
 # PHP Login without database
 This is a small "framework" to protect a website with a passwort in PHP.
 
-## Current features
+## Current project status
+🔸 This project has been discontinued.
+
+## Current / last integrated features
 🔸 Simple login function without any database
 
 🔸 Multiuser support! Take a look at line 4 - 10 to activate it
@@ -46,7 +49,7 @@ This repository depends on the w3schools.in example.
 For major changes, please open an issue first to discuss what you would like to change.
 
 ## Contact me
-☎️ Open an issue or contact me via Discord: V4M0N0S#0001
+☎️ Open an issue or contact me via mail: vamonos@posteo.me or Discord: vamonos.me
 
 ## License
 👍 [MIT](https://choosealicense.com/licenses/mit/) - Feel free to share, work with it or clone to your own repository!
