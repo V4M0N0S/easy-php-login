@@ -24,9 +24,6 @@ Used bootstrap 4 / If you want change theme replace
 
 🖥 Webserver with PHP & mod_rewrite | Just edit the files and upload to your server
 
-## Upcomming features
-🟡 Update to bootstrap 5
-
 ## Credits for background images
 1.jpg | Jeremy Bishop (https://unsplash.com/photos/Ui8rcq9bG90)
 
